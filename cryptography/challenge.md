@@ -5,4 +5,4 @@ Explore the nooks and crannies of the webpage, and don’t forget to check the f
 
 # Artifacts
 
-[Pull and use Live Host →](cryptography/Crypto_website)
+[Pull and use Live Host →](Crypto_website)
